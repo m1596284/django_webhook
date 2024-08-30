@@ -1,0 +1,11 @@
+*.log
+*.db
+*.jpg
+*.mp4
+*.png
+*.pyc
+*/driver
+*/__pycache__
+*.log
+*/migrations
+*.json
